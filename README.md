@@ -1,2 +1,2 @@
 # SoftUni
-EntryModuleTasks
+Work from SoftUni Programming Basics Course
